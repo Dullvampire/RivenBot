@@ -1,2 +1,46 @@
 Initialized Correctly
 Login Successful
+Attempted to disconnect a null connection
+[youtube] t_ujGY_5ukA: Downloading webpage
+[youtube] t_ujGY_5ukA: Downloading video info webpage
+[youtube] t_ujGY_5ukA: Extracting video information
+[youtube] t_ujGY_5ukA: Downloading MPD manifest
+[youtube] t_ujGY_5ukA: Downloading webpage
+[youtube] t_ujGY_5ukA: Downloading video info webpage
+[youtube] t_ujGY_5ukA: Extracting video information
+[youtube] t_ujGY_5ukA: Downloading MPD manifest
+[youtube] MiF3yRqNmXk: Downloading webpage
+[youtube] MiF3yRqNmXk: Downloading video info webpage
+[youtube] MiF3yRqNmXk: Extracting video information
+[youtube] MiF3yRqNmXk: Downloading MPD manifest
+[youtube] luDn_3ITKes: Downloading webpage
+[youtube] luDn_3ITKes: Downloading video info webpage
+[youtube] luDn_3ITKes: Extracting video information
+[youtube] 6-0TggTjsKg: Downloading webpage
+[youtube] 6-0TggTjsKg: Downloading video info webpage
+[youtube] 6-0TggTjsKg: Extracting video information
+[youtube] 6-0TggTjsKg: Downloading MPD manifest
+[youtube] D4XS-ZHkiOM: Downloading webpage
+[youtube] D4XS-ZHkiOM: Downloading video info webpage
+[youtube] D4XS-ZHkiOM: Extracting video information
+[youtube] D4XS-ZHkiOM: Downloading MPD manifest
+[youtube] cT7baGTXLsA: Downloading webpage
+[youtube] cT7baGTXLsA: Downloading video info webpage
+[youtube] cT7baGTXLsA: Extracting video information
+[youtube] cT7baGTXLsA: Downloading MPD manifest
+[youtube] Q2Cc7iCofbU: Downloading webpage
+[youtube] Q2Cc7iCofbU: Downloading video info webpage
+[youtube] Q2Cc7iCofbU: Extracting video information
+[youtube] Q2Cc7iCofbU: Downloading MPD manifest
+[youtube] yTX94F_t0Yk: Downloading webpage
+[youtube] yTX94F_t0Yk: Downloading video info webpage
+[youtube] yTX94F_t0Yk: Extracting video information
+[youtube] yTX94F_t0Yk: Downloading MPD manifest
+[youtube] 0rH_WyMRZ70: Downloading webpage
+[youtube] 0rH_WyMRZ70: Downloading video info webpage
+[youtube] 0rH_WyMRZ70: Extracting video information
+[youtube] 0rH_WyMRZ70: Downloading MPD manifest
+[youtube] E7Uma2gh94M: Downloading webpage
+[youtube] E7Uma2gh94M: Downloading video info webpage
+[youtube] E7Uma2gh94M: Extracting video information
+[youtube] E7Uma2gh94M: Downloading MPD manifest
