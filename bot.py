@@ -56,6 +56,6 @@ class MyClient (discord.Client):
         await self.send_message(d, m)
 
 if __name__ == '__main__':
-    client = discord.Client()
+    client = MyClient()
     
     client.run('MjI4MDM1MzEwMTM3NzcwMDA0.CsO18g.WNtn1y805SsVfevSp4WsA_nGZtE')
