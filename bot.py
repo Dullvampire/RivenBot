@@ -47,7 +47,13 @@ class MyClient (discord.Client):
     @asyncio.coroutine   
     def on_message(self, message):
         "Asynchronous event handler that's called every time a message is seen by the user"
-        print('Message received\n ', message.content)
+        self.sendMessage(message.channel, message.content)
+    
+    def parseCommand (self, s):
+        pass
+    
+    def sendMessage (self, d, m):
+        await self.send_message(d, m)
 
 if __name__ == '__main__':
     client = discord.Client()
